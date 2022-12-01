@@ -2851,10 +2851,10 @@
     cpy "^8.1.0"
     path-exists "^4.0.0"
 
-"@netlify/functions@^0.11.0":
-  version "0.11.0"
-  resolved "https://registry.yarnpkg.com/@netlify/functions/-/functions-0.11.0.tgz#224f3bba53809b364d36377ad0b2d3de594f994d"
-  integrity sha512-+WWX081UCkLZYkfh1Ru+PH5HTujNXugeskATGhZLTyS1U3Cqh2gYLArdG1a/vU8WWopu/wjpxEOdWq8/T5Nw5Q==
+"@netlify/functions@^1.3.0":
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/@netlify/functions/-/functions-1.3.0.tgz#4305a3fb6b49caf56cd2be88d4b8534b1d5aff4f"
+  integrity sha512-hN/Fgpz8XIOBfsBPLYUMxVKBlCopgeqGB0popayicnmkFLnvKByTTMYgF01wcF9DBtBQdV0H2h1kPFpMl34I8w==
   dependencies:
     is-promise "^4.0.0"
 
